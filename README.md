@@ -1,11 +1,13 @@
 # ine-wilhelmsen-austreim-js1-ma3
+
 Module Assignment 3 for Javascript 1
 
 Question 1
 Convert the function below to an arrow function:
-function division(a, b) {    
-    return a % b;
+function division(a, b) {  
+ return a % b;
 }
+
 Question 2
 Make a call to the following API endpoint:
 https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating
